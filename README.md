@@ -14,5 +14,4 @@ I'm a Web Developer (Frontend) and UI/UX Designer who currently works as a Web D
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelebukatobi&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelebukatobi&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Joel's GitHub stats" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<img src="https://gpvc.arturio.dev/joelebukatobi" alt="profile views"> 
-<p align="left"> <a href="https://twitter.com/joelebukatobi" target="blank"><img src="https://img.shields.io/twitter/follow/joelebukatobi?logo=twitter&style=for-the-badge" alt="joelebukatobi" /></a> </p>
+<img src="https://gpvc.arturio.dev/joelebukatobi" alt="profile views">
