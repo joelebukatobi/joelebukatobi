@@ -4,7 +4,6 @@
 
 I'm a Web Developer (Frontend) and UI/UX Designer who currently works as a Web Developer at [DataTac Nigeria](https://datatac.ng). My job description entails creating and building amazing experiences for clients and users alike. I'm a JavaScript Enthusiast who's passionate about Headless CMS. At the moment I am currently learning how to integrate Headless CMS using Strapi and Payload CMS while exploring the world of DevOps at [AltSchool](https://altschoolafrica.com).
 
-- 😊 Pronouns: He/him
 - 📫 Feel free to shoot me a DM [@joelebukatobi](https://twitter.com/joelebukatobi).
 - 👨‍💻 All of my projects are available on my [portfolio website](https://joelebukatobi.dev/projects)
 - 📝 I'm picking up technical writing. Here are some of my [articles](https://joelebukatobi.dev/blog)
